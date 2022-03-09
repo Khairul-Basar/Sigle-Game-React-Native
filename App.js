@@ -32,7 +32,7 @@ export default function App() {
         <View style={styles.elementTitle}>
           <Text style={styles.homeTeam}>HOME TEAM</Text>
           <TouchableOpacity>
-            <Text style={styles.addTeam}>ADD TEAM</Text>
+            <Text style={styles.addTeam}>ADD TEAM to</Text>
           </TouchableOpacity>
         </View>
 
